@@ -2,7 +2,7 @@
 MATLAB code to perform optimization of initial condition exhibiting self-similar energy cascade for the one dimensional Burgers equation. 
 
 # Files
-- `Opt_01.m`: Script determines optimal initial condition exhibiting self-similar energy cascade for the 1D Burgers equation given values of viscosity and lambda
+- `Opt_01.m`: Script determines optimal initial condition exhibiting self-similar energy cascade for the 1D Burgers equation given values of $\nu$ and $\lambda$
 - `BurgerOptFuncs.m`: Functions and parameters set required to run optimization and plotting of optimal solutions `Opt_01.m`
 
 # How to Use
